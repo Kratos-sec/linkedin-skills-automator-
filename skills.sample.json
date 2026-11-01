@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Threat Modeling",
+    "targets": ["Assets, Threats, and Vulnerabilities", "Ethical Hacking Capstone", "Requiem"]
+  },
+  {
+    "name": "Security Policy Development",
+    "targets": ["Creating an Employee Handbook", "Core Human Resources", "Manage Security Risks"]
+  }
+]
